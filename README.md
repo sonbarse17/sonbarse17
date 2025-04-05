@@ -30,7 +30,7 @@ Feel free to check them out and contribute if you're interested! 😎
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonbarse17&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![sonbarse17's Stats](https://github-readme-stats.vercel.app/api?username=sonbarse17&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
 ## 🌱 I’m currently learning
 
