@@ -21,7 +21,7 @@ Here are some of the technologies and tools I work with:
 
 I am always exploring ways to improve system reliability and automation. Here are some of my projects:
 
-- [**Project 1: CI/CD Pipeline Setup**](https://github.com/sonbarse17/) - Implemented a robust CI/CD pipeline using Jenkins and Docker, automating testing, building, and deployment processes.
+- [**Project 1: CI/CD Pipeline Setup**](https://github.com/sonbarse17/Hotstar-Clone) - Implemented a robust CI/CD pipeline using Jenkins and Docker, automating testing, building, and deployment processes.
 - [**Project 2: Infrastructure Automation**](Link-to-Project) - Deployed infrastructure with Terraform and AWS, enabling automated provisioning and management of cloud resources.
 - [**Project 3: Kubernetes Cluster Setup**](Link-to-Project) - Set up a Kubernetes cluster with Helm charts for scalable microservices architecture.
 - [**Project 4: Monitoring & Alerts**](Link-to-Project) - Configured Prometheus and Grafana for system monitoring and real-time alerts.
