@@ -28,9 +28,6 @@ I am always exploring ways to improve system reliability and automation. Here ar
 
 Feel free to check them out and contribute if you're interested! 😎
 
-## 📈 GitHub Stats
-
-![sonbarse17's Stats](https://github-readme-stats.vercel.app/api?username=sonbarse17&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
 ## 🌱 I’m currently learning
 
