@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/sonbarse17?label=Follow&style=social" />
   </a>
   <a href="https://linkedin.com/in/sushant-sonbarse">
-    <img src="" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sushant%20Sonbarse-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
