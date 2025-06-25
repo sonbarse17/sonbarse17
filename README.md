@@ -1,61 +1,84 @@
-# Hello, I'm Sushant Sonbarse ! 👋
+<h1 align="center">Hey Everyone 👋, I'm Sushant Sonbarse</h1>
 
-I'm a **DevOps Engineer** passionate about automating infrastructure, improving CI/CD pipelines, and ensuring seamless collaboration between development and operations teams. I specialize in creating scalable and reliable systems that can handle high volumes of traffic and data.
+<div align="center">
+  <img src="https://github.com/sonbarse17/" alt="DevOps Banner">
+</div>
 
-## 🔧 Technologies & Tools
+<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector </a></h3>
 
-Here are some of the technologies and tools I work with:
+<p align="center">
+  <a href="https://github.com/sonbarse17">
+    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+  </a>
+  <a href="https://linkedin.com/in/sushant-sonbarse">
+    <img src="" />
+  </a>
+</p>
 
-- **Cloud Platforms**: AWS, Azure, GCP
-- **Infrastructure as Code (IaC)**: Terraform, CloudFormation, 
-- **CI/CD**: Jenkins, GitLab CI
-- **Containerization**: Docker, Kubernetes
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack, Datadog
-- **Version Control**: Git, GitHub, GitLab, Bitbucket
-- **Scripting**: Bash, Python, Go
-- **Databases**: MySQL, PostgreSQL, MongoDB 
-- **Operating Systems**: Linux (Ubuntu, CentOS, RHEL, Amzon Linux 2)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sonbarse17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-## 🔥 DevOps Projects & Contributions
-
-I am always exploring ways to improve system reliability and automation. Here are some of my projects:
-
-- [**Project 1: CI/CD Pipeline Setup**](https://github.com/sonbarse17/Hotstar-Clone) - Implemented a robust CI/CD pipeline using Jenkins and Docker, automating testing, building, and deployment processes.
-- [**Project 2: Infrastructure Automation**](Link-to-Project) - Deployed infrastructure with Terraform and AWS, enabling automated provisioning and management of cloud resources.
-- [**Project 3: Kubernetes Cluster Setup**](Link-to-Project) - Set up a Kubernetes cluster with Helm charts for scalable microservices architecture.
-- [**Project 4: Monitoring & Alerts**](Link-to-Project) - Configured Prometheus and Grafana for system monitoring and real-time alerts.
-
-Feel free to check them out and contribute if you're interested! 😎
-
-
-## 🌱 I’m currently learning
-
-- **Advanced Kubernetes management**
-- **Service Meshes (Istio, Linkerd)**
-- **Serverless architecture**
-- **SRE (Site Reliability Engineering) principles**
-
-## 📬 How to reach me
-
-- Email: sushantsonbarse@outlook.com
-- LinkedIn: https://www.linkedin.com/in/sushant-sonbarse
-
-## 🎯 Goals
-
-- Build and automate scalable infrastructure with **Infrastructure as Code** 🏗️
-- Optimize cloud resource management to reduce costs 🚀
-- Contribute to more open-source DevOps tools and frameworks 🌍
-- Continue learning and mastering **Kubernetes** and **CI/CD pipelines** 🎯
-
-## 🎮 Fun Facts
-
-- I’m an avid believer in **Infrastructure as Code** and **Automation**! 🔧
-- I love solving **DevOps challenges** and learning new **cloud-native technologies** 🌐
+- 👨‍💻 All of my projects are available at [https://github.com/sonbarse17](https://github.com/sonbarse17)  
+- 💬 Ask me about **DevOps & Cloud DevOps**  
+- 📫 How to reach me **sushantsonbarse07@gmail.com**
 
 ---
 
-Thanks for stopping by! Feel free to connect with me if you want to chat about DevOps, cloud computing, automation, or anything else! 😄
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+</p>
 
 
-##
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonbarse17&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonbarse17&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+
+---
+### 🔥 GitHub Contribution Streak
+
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sonbarse17&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+---
+
+### 👨‍💼 About Me & 🤝 Open to Collaborations
+ 
+🤝 Open to **Project Collaborations**  
+💼 Offering **DevOps Consulting / Mentorship**  
+📧 Let’s chat: [sushantsonbarse07@gmail.com](sushantsonbarse07@gmail.com)
+
+> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
