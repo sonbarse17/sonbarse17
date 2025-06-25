@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Sushant Sonbarse</h1>
 
 <div align="center">
-  <img src="https://github.com/sonbarse17/sonbarse17/banner.png" alt="DevOps Banner">
+  <img src="https://github.com/sonbarse17/sonbarse17/blob/main/banner.png" alt="DevOps Banner">
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector </a></h3>
