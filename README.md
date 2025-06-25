@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/sonbarse17">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/sonbarse17?label=Follow&style=social" />
   </a>
   <a href="https://linkedin.com/in/sushant-sonbarse">
     <img src="" />
