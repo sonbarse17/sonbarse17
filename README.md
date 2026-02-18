@@ -52,7 +52,7 @@
   <img src="https://raw.githubusercontent.com/microsoft/vscode-codicons/main/src/icons/azure-devops.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/azure/azure-icon.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mind-map.png" width="40" height="40"/>
   </p>
 
 - **Languages & Databases**
