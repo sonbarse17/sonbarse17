@@ -73,8 +73,10 @@
 <br>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonbarse17&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sonbarse17&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonbarse17&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonbarse17&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 </div>
 
 ---
