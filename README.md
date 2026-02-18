@@ -4,7 +4,7 @@
   <img src="./banner.png" alt="DevOps Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector </h3>
+<h3 align="center">A passionate DevOps & MLOps Engineer from India. I work in the Corporate IT Sector </h3>
 
 <p align="center">
   <a href="https://github.com/sonbarse17">
@@ -22,7 +22,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sonbarse17](https://github.com/sonbarse17)  
-- 💬 Ask me about **DevOps, Cloud DevOps & Nginx**  
+- 💬 Ask me about **DevOps, MLOps, Cloud & Nginx**  
 - � Reach me at **sushantsonbarse07@gmail.com**
 
 ---
@@ -49,10 +49,10 @@
 
 - **CI/CD & MLOps**
   <p>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure_devops/microsoft_azure_devops-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/microsoft/vscode-codicons/main/src/icons/azure-devops.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Azure_Machine_Learning_Services_Logo.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/azure/azure-icon.svg" width="40" height="40"/>
   </p>
 
 - **Languages & Databases**
@@ -92,8 +92,8 @@
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
  
-🤝 Open to **Project Collaborations**  
-💼 Offering **DevOps Consulting / Mentorship**  
+🤝 Open to **Project Collaborations (DevOps / MLOps)**  
+💼 Offering **DevOps & MLOps Consulting / Mentorship**  
 📧 Let’s chat: [sushantsonbarse07@gmail.com](mailto:sushantsonbarse07@gmail.com)
 
-> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
+> *"Helping people crack DevOps & MLOps with real-world knowledge. Let’s build, automate, and deploy the future!"*
